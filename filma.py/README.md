@@ -109,3 +109,5 @@ Piemēram, aktierim Leonardo DiCaprio filmā `Inception`:
 - **Aktieris:** Leonardo DiCaprio
 - **Tēla vārds:** Dom Cobb
 - **Lomas secība:** `1`
+
+<img width="1131" height="731" alt="Ekrānuzņēmums 2026-11-06 100529" src="https://github.com/user-attachments/assets/90d19d96-efc8-4262-bb98-701e051c89a4" />
